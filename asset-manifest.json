@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ali-alnasser/static/css/main.f855e6bc.css",
+    "main.js": "/ali-alnasser/static/js/main.f1fcc3b8.js",
+    "static/js/453.8406beea.chunk.js": "/ali-alnasser/static/js/453.8406beea.chunk.js",
+    "static/media/logo.svg": "/ali-alnasser/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ali-alnasser/index.html",
+    "main.f855e6bc.css.map": "/ali-alnasser/static/css/main.f855e6bc.css.map",
+    "main.f1fcc3b8.js.map": "/ali-alnasser/static/js/main.f1fcc3b8.js.map",
+    "453.8406beea.chunk.js.map": "/ali-alnasser/static/js/453.8406beea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f1fcc3b8.js"
+  ]
+}
